@@ -13,4 +13,4 @@
 
 var price = 500;
 price = 50;
-console.log(price)
+console.log(price);
